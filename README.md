@@ -16,7 +16,9 @@ to create anything I want and understand the software world as much as I can.
   
 ⭐ This is how comfortable I feel with all the existing languages I can think of, out of 10 stars: <br>
 
- Flask - ⭐⭐⭐⭐⭐ 5 out of 10 <br>
+ Flask       ⭐⭐⭐⭐⭐ 5 out of 10 <br>
+ Python      ⭐⭐⭐⭐⭐⭐⭐⭐ 8 out of 10 <br>
+ JavaScript-
 
 
 
