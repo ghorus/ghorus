@@ -9,8 +9,13 @@ to create anything I want and understand the software world as much as I can.
 ![Milestone badge][logo] Milestones Badges: <br>
   ✓ Completed a Framework Series on YouTube  <br>
   ✓ Completed a 5 Hour HTML & CSS YouTube Tutorial  <br>
+  ✓ Completed a 2 Hour Long Pygame Tutorial <br>
   ✓ Learned Flask from 10+ Hour YouTube Series  <br>
   ✓ Create My Own Linked List, Created My Own Trees  <br>
+  ✓ Solve 70 LeetCode Problems  <br>
+  
+I've obtained skills in the following: <br>
+  
 
 
 
