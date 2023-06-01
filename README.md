@@ -14,8 +14,9 @@ to create anything I want and understand the software world as much as I can.
   ✓ Create My Own Linked List, Created My Own Trees  <br>
   ✓ Solve 70 LeetCode Problems  <br>
   
-I've obtained skills in the following: <br>
-  
+⭐ This is how comfortable I feel with all the existing languages I can think of, out of 10 stars: <br>
+
+ Flask - ⭐⭐⭐⭐⭐ 5 out of 10 <br>
 
 
 
