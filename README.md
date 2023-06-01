@@ -1,11 +1,16 @@
-## Hi I'm Victor, a **self-taught software engineer and web developer**!
+## Hi I'm Victor, a self-taught software engineer and web developer! 
+I guess you can say I'm a **digital craftsman**
 
-My coding journey as of this moment, I've probably watched close to thousands of YouTube tutorials teaching myself as much as I can to land a coding job!
+My coding journey as of this moment, I've probably watched close to thousands of YouTube tutorials teaching myself as much as I can to land a coding job! My aim is to become comfortable enough 
+to create anything I want and understand the software world as much as I can.
 
 
 
-![Milestone badge][logo] Milestones Badge: 
-  Completed a Framework Series on YouTube, Learned Flask from 10+ Hour YouTube Series, Create My Own Linked List
+![Milestone badge][logo] Milestones Badges: 
+  ✓ Completed a Framework Series on YouTube
+  ✓ Completed a 5 Hour HTML & CSS YouTube Tutorial
+  ✓ Learned Flask from 10+ Hour YouTube Series
+  ✓ Create My Own Linked List, Created My Own Trees
 
 
 
