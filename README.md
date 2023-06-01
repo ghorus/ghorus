@@ -1,9 +1,11 @@
 ## Hi I'm Victor, a self-taught software engineer and web developer!
 
 My coding journey as of this moment, I've probably watched close to thousands of YouTube tutorials teaching myself as much as I can to land a coding job!
-![alt text][logo]
+![Milestone badge][logo]
 
 [logo]: https://github.com/ghorus/ghorus/blob/main/milestone.png "Logo Title Text 2"
+
+
 <!--
 **ghorus/ghorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
