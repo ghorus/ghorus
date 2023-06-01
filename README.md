@@ -13,13 +13,21 @@ to create anything I want and understand the software world as much as I can.
   ✓ Learned Flask from 10+ Hour YouTube Series  <br>
   ✓ Create My Own Linked List, Created My Own Trees  <br>
   ✓ Solve 70 LeetCode Problems  <br>
+  ✓ Learn about Complex Data Structure and Algorithms, Time & Space Complexity  <br>
+  ✓ Create My Own Coding Tutorial  <br>
+  ✓ Practice Socket  <br>
   
 ⭐ This is how comfortable I feel with all the existing languages I can think of, out of 10 stars: <br>
 
  Flask       ⭐⭐⭐⭐⭐ 5 out of 10 <br>
+ React ⭐ 1 out of 10 <br>
  Python      ⭐⭐⭐⭐⭐⭐⭐⭐ 8 out of 10 <br>
- JavaScript-
-
+ Ruby on Rails ⭐⭐⭐⭐ 4 out of 10 <br>
+ JavaScript ⭐⭐⭐ 3 out of 10 <br>
+ C ++ ⭐⭐ 2 out of 10 <br>
+ Elixir 0 out of 10 <br>
+ 
+🔭 I’m currently trying to figure out what I should invest my energy into so I can impress employers and eventually get a job!
 
 
 
