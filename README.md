@@ -4,7 +4,13 @@ My coding journey as of this moment, I've probably watched close to thousands of
 
 
 
-![Milestone badge][logo] Milestones
+![Milestone badge][logo] Milestones Badge: 
+  Completed a Framework Series on YouTube, Learned Flask from 10+ Hour YouTube Series, Create My Own Linked List
+
+
+
+
+
 
 [logo]: https://github.com/ghorus/ghorus/blob/main/milestone.png "Logo Title Text 2"
 
