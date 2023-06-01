@@ -6,12 +6,11 @@ to create anything I want and understand the software world as much as I can.
 
 
 
-![Milestone badge][logo] Milestones Badges: 
-<br>
-  ✓ Completed a Framework Series on YouTube
-  ✓ Completed a 5 Hour HTML & CSS YouTube Tutorial
-  ✓ Learned Flask from 10+ Hour YouTube Series
-  ✓ Create My Own Linked List, Created My Own Trees
+![Milestone badge][logo] Milestones Badges: <br>
+  ✓ Completed a Framework Series on YouTube  <br>
+  ✓ Completed a 5 Hour HTML & CSS YouTube Tutorial  <br>
+  ✓ Learned Flask from 10+ Hour YouTube Series  <br>
+  ✓ Create My Own Linked List, Created My Own Trees  <br>
 
 
 
