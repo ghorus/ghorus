@@ -15,8 +15,8 @@ https://youtube.com/shorts/2Nj3Y-PFzfU?feature=share <br>
   
 **Web Design for an STD Hackathon Case Study** <br>
 https://ghorus.github.io/uxui/ <br>
--Collaborated with software programmers and health practitioners to create compelling ways of resolving the rise of sexually transmitted diseases by building web designs.
--Created mock prototypes and wireframe designs with Figma that reflected my team's idea and ensured technical feasibility of implementing that idea on a web application.
+- Collaborated with software programmers and health practitioners to create compelling ways of resolving the rise of sexually transmitted diseases by building web designs.
+- Created mock prototypes and wireframe designs with Figma that reflected my team's idea and ensured technical feasibility of implementing that idea on a web application.
 
 ![Milestone badge][logo] Milestones Badges: <br>
   ✓ Only Downhill From Here  <br>
