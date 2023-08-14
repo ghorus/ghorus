@@ -4,7 +4,6 @@ I guess you can say I'm a **digital craftsman**
 My coding journey as of this moment, I've probably watched close to thousands of YouTube tutorials teaching myself as much as I can to land a coding job! My aim is to become comfortable enough 
 to create anything I want and understand the software world as much as I can.
 
-![only_downhill_from_here_AdobeExpress](https://github.com/ghorus/ghorus/assets/94588543/a0bc32f9-cd5e-4bde-a8e0-789590b198a6)
 
 
 ![Milestone badge][logo] Milestones Badges: <br>
