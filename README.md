@@ -3,7 +3,7 @@ I guess you can say I'm a **digital craftsman**
 
 My coding journey as of this moment, I've probably watched close to thousands of YouTube tutorials teaching myself as much as I can to land a coding job! My aim is to become comfortable enough 
 to create anything I want and understand the software world as much as I can.
-https://www.youtube.com/watch?v=EF6fqnnl3Uk
+
 
 
 ![Milestone badge][logo] Milestones Badges: <br>
