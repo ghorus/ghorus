@@ -12,8 +12,9 @@ Progressively evolving the efficiency of impactful ideas. Energetically visualiz
   <br>
   https://youtube.com/shorts/2Nj3Y-PFzfU?feature=share <br>
 - Utilized React Native to build a full-stack mobile app that allowed users to log their choice of workout and track each repetition as they perform it.
-- Ideated a method for users to stay persistent with their workout by tracking total push ups and sit ups done over a lifetime. 
-**Web Design for an STD Hackathon Case Study **
+- Ideated a method for users to stay persistent with their workout by tracking total push ups and sit ups done over a lifetime.
+  
+Web Design for an STD Hackathon Case Study 
 -Collaborated with software programmers and health practitioners to create compelling ways of resolving the rise of sexually transmitted diseases by building web designs.
 -Created mock prototypes and wireframe designs with Figma that reflected my team's idea and ensured technical feasibility of implementing that idea on a web application.
 
