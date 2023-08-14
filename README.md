@@ -18,6 +18,11 @@ https://ghorus.github.io/uxui/ <br>
 - Collaborated with software programmers and health practitioners to create compelling ways of resolving the rise of sexually transmitted diseases by building web designs.
 - Created mock prototypes and wireframe designs with Figma that reflected my team's idea and ensured technical feasibility of implementing that idea on a web application.
 
+**Graphic designs and front end Web developments** <br>
+- Developed creative, engaging user interactions by using javascript's libraries p5 and GSAP for  professional-grade animations
+- Conceptualized all the animations,graphic designs and web designing for an immersive user experience
+
+
 ⭐ Skills <br>
 
  Flask, Ruby on Rails, Shopify Liquid   <br>
