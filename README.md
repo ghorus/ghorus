@@ -1,13 +1,15 @@
-## Hi I'm Victor, a self-taught software engineer and web developer! 
+## Hi I'm Victor, a software engineer and web developer! 
 I guess you can say I'm a **digital craftsman**
 
-My coding journey as of this moment, I've probably watched close to thousands of YouTube tutorials teaching myself as much as I can to land a coding job! My aim is to become comfortable enough 
-to create anything I want and understand the software world as much as I can.
+Progressively evolving the efficiency of impactful ideas. Energetically visualizing strategic initiatives for resolving real world challenges.
 
-
+**Game Programmer & Designer - "Only Downhill from Here"**
+- Designed and developed all the animations for 9 characters, the 3 levels that each have a boss, the storyline, and the dialogues using Python's Pygame library.
+- Identified challenges with gameplay mechanics, compatibility of certain music, and created algorithms for enemy attacks using object oriented coding. 
 
 ![Milestone badge][logo] Milestones Badges: <br>
-  ✓ Completed a Framework Series on YouTube  <br>
+  ✓ Only Downhill From Here  <br>
+  https://youtu.be/dHfWG-LX8so
   ✓ Completed a 5 Hour HTML & CSS YouTube Tutorial  <br>
   ✓ Completed a 2 Hour Long Pygame Tutorial <br>
   ✓ Learned Flask from 10+ Hour YouTube Series  <br>
