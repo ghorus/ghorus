@@ -11,6 +11,7 @@ Progressively evolving the efficiency of impactful ideas. Energetically visualiz
  Python,  JavaScript  <br>
  HTML, CSS <br> 
  PostGreSQL,SQLite3,SQLite,DBeaver <br>
+ 
  My Top Projects:<br>
 
 **Informative Coding Topics with a Websocket for Chat Feature - "Real World Coding Applications"** <br>
