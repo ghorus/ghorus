@@ -12,12 +12,7 @@ Progressively evolving the efficiency of impactful ideas. Energetically visualiz
  HTML, CSS <br> 
  PostGreSQL,SQLite3,SQLite,DBeaver <br>
  
- My Top Projects:<br>
-
-**Informative Coding Topics with a Websocket for Chat Feature - "Real World Coding Applications"** <br>
-https://rwca.onrender.com/ <br>
-- A full stack website that implements a chat feature with socketIO in Python, using the Flask framework,to host educational events where I teach users to learn how to code.
-- Built a database using Render's PostgreSQL to post content, a text editor to highlight important coding terms and add pictures with ease, a visitor tracker using Google Analytics, an administrator login, and an email form for users to contact me for help when I'm offline. <br>
+ My Highlighted Projects:<br>
 
 **Game Programmer & Designer - "Only Downhill from Here"** <br>
  https://youtu.be/dHfWG-LX8so <br>
