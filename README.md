@@ -1,5 +1,6 @@
 ## Hi I'm Victor, a software engineer and web developer! 
 I guess you can say I'm a **digital craftsman**
+https://victornguyen.us/
 
 Progressively evolving the efficiency of impactful ideas. Energetically visualizing strategic initiatives for resolving real world challenges.
 
