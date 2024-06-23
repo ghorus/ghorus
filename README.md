@@ -34,6 +34,7 @@ https://ghorus.github.io/portfolio/ <br>
 https://codemap-w9sx.onrender.com/ <br>
 - Developed and integrated a comprehensive curriculum
 - Engineered a real-time feedback system for users
+  
 [logo]: https://github.com/ghorus/ghorus/blob/main/milestone.png "Logo Title Text 2"
 
 
