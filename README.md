@@ -30,12 +30,10 @@ https://ghorus.github.io/portfolio/ <br>
 - Developed creative, engaging user interactions by using javascript's libraries p5 and GSAP for  professional-grade animations
 - Conceptualized all the animations,graphic designs and web designing for an immersive user experience
 
-**Push up/sit ups progress tracker with mobile application and local database** - "The Best of Me"<br>
-https://youtube.com/shorts/2Nj3Y-PFzfU?feature=share <br>
-https://ghorus.github.io/nails-website/ <br>
-- Utilized React Native to build a full-stack mobile app that allowed users to log their choice of workout and track each repetition as they perform it.
-- Ideated a method for users to stay persistent with their workout by tracking total push ups and sit ups done over a lifetime.
-
+**Code Tutoring Website - Ongoing ** <br>
+https://codemap-w9sx.onrender.com/ <br>
+- Developed and integrated a comprehensive curriculum
+- Engineered a real-time feedback system for users
 [logo]: https://github.com/ghorus/ghorus/blob/main/milestone.png "Logo Title Text 2"
 
 
