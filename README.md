@@ -30,7 +30,7 @@ https://ghorus.github.io/portfolio/ <br>
 - Developed creative, engaging user interactions by using javascript's libraries p5 and GSAP for  professional-grade animations
 - Conceptualized all the animations,graphic designs and web designing for an immersive user experience
 
-**Code Tutoring Website - Ongoing ** <br>
+**Code Tutoring Website - Ongoing** <br>
 https://codemap-w9sx.onrender.com/ <br>
 - Developed and integrated a comprehensive curriculum
 - Engineered a real-time feedback system for users
